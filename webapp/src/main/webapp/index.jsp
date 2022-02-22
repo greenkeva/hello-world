@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Banking Your Way is coming soon</h1>
+    <h1>Banking Your Way is coming soon!</h1>
     <p>Please fill in this form to create an account to get updates:</p>
     <hr>
      
